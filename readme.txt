@@ -19,7 +19,8 @@ Ricardo
 Daniel
 Tiago
 Paulo
-<<<<<<< HEAD
+Eduardo
+Paulo Bento
 Mauricio
 Eduardo
 José
