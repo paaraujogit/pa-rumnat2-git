@@ -32,12 +32,16 @@ Thalita
 <<<<<<< HEAD
 =======
 Eduardo
+S2 Thalita S2
 Paulo Bento
+<<<<<<< HEAD
 >>>>>>> 1d5a0b7769876942d7ef6b1f629558b596954441
 <<<<<<< HEAD
 >>>>>>> 48e359b84dff35734092fdbb8230f8e35f041250
 =======
 Eduardo
+=======
+>>>>>>> 6acab3e8f619494ec1ae64d352d6e03aabd1b123
 José
 José
 <<<<<<< HEAD
