@@ -18,7 +18,6 @@ Tiago
 Paulo
 Tomás
 Eduardo
-José
-Paulo Coelho
 Paulo Bento
 José
+Paulo Coelho
