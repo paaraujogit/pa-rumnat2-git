@@ -10,7 +10,6 @@ Ricardo
 Tiago
 Ricardo2
 Thalita2
-Ricardo
 Daniel
 Paulo Victor
 Eduardo

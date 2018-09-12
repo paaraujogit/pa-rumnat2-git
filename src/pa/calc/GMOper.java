@@ -1,10 +1,10 @@
 package pa.calc;
 
-public class PAOper implements ItfOper {
+public class GMOper implements ItfOper {
 
 	@Override
 	public double oper(double op1, double op2) {
-		return op1*2*op2;
+		return op1*10*op2;
 	}
 
 }
