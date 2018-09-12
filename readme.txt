@@ -6,15 +6,15 @@ Diogo
 Paulo
 José
 Patrick Jose
-Paulo
-Paulo
-José
+Ricardo
+Tiago
+Ricardo2
+Thalita2
+Diogo
 Ricardo
 Daniel
-Tiago
-Paulo
 Eduardo
 Paulo Bento
-José
-José
 Paulo Coelho
+Tomás
+Mauricio
