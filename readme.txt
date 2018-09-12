@@ -1,26 +1,19 @@
+
 Projeto colaborativo
 
 
-Patrick Jose
-=======
-
-Paulo
-
-=======
-
-
-
-=======
+Diogo
 Paulo
 José
-
-
-Alteração Ricardo
-=======
-
+Patrick Jose
+Paulo
+Paulo
+José
+Ricardo
 Daniel
 Tiago
 Paulo
 Mauricio
+Eduardo
 José
 
