@@ -6,7 +6,7 @@ public class Calculadora {
 		
 		// OperEx Example
 		OperEx opex=new OperEx();
-		double resEx = opex.oper(1, 2);
+		double resEx = opex.oper(1, 5);
 		System.out.println(resEx);
 		
 		// ToDo - All Students Must Implement one Operation
