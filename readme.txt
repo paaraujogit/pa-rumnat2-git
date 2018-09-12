@@ -28,12 +28,16 @@ Ricardo
 Daniel
 Tiago
 Paulo
+<<<<<<< HEAD
 Thalita
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> 0cfb073593385e57f187291cd3256aecd972e4b7
 Eduardo
 S2 Thalita S2
 Paulo Bento
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 1d5a0b7769876942d7ef6b1f629558b596954441
 <<<<<<< HEAD
@@ -54,3 +58,13 @@ Paulo Coelho
 >>>>>>> ebb7301f43fd92c18e04aae30edf10ff258ae0c3
 >>>>>>> 1d5a0b7769876942d7ef6b1f629558b596954441
 >>>>>>> b1dca1dea81684b19297f086a26f9f8230226c53
+=======
+Mauricio
+Eduardo
+José
+Paulo Coelho
+Eduardo
+José
+José
+Paulo Coelho
+>>>>>>> 0cfb073593385e57f187291cd3256aecd972e4b7
