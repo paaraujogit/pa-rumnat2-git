@@ -1,6 +1,7 @@
 Projeto colaborativo
 
-Daniel
-=======
 
+Daniel
+Tiago
 Paulo
+José
