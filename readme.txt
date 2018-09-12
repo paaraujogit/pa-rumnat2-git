@@ -1,8 +1,8 @@
 
 Projeto colaborativo
 
-Gil
 Diogo
+Gil
 Paulo
 José
 Patrick Jose
@@ -10,7 +10,6 @@ Ricardo
 Tiago
 Ricardo2
 Thalita2
-Diogo
 Ricardo
 Daniel
 Paulo Victor
