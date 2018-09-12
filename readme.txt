@@ -7,6 +7,14 @@ Projeto colaborativo
 >>>>>>> 2e2b7a53805ad10ed89e5ec34643b17a10883c52
 Projeto colaborativo
 
+<<<<<<< HEAD
+Ricardo
+Tiago
+Paulo
+José
+Ricardo2
+
+=======
 
 Diogo
 Paulo
