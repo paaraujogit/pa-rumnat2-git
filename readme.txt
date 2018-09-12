@@ -15,8 +15,6 @@ Tiago
 Paulo
 Eduardo
 Paulo Bento
-<<<<<<< HEAD
 José
-=======
 José
->>>>>>> ebb7301f43fd92c18e04aae30edf10ff258ae0c3
+Paulo Coelho
