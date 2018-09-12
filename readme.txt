@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Projeto colaborativo alterado
+Projeto colaborativo 
 =======
 Projeto colaborativo
 
