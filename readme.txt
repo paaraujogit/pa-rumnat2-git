@@ -1,3 +1,4 @@
+
 Projeto colaborativo
 
 
@@ -12,5 +13,7 @@ Ricardo
 Daniel
 Tiago
 Paulo
+Eduardo
+José
 José
 Paulo Coelho
