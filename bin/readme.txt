@@ -14,7 +14,6 @@ Daniel
 Tiago
 Paulo
 Eduardo
-Paulo Bento
 <<<<<<< HEAD
 José
 =======
