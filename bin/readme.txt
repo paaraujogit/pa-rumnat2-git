@@ -1,10 +1,7 @@
+
 Projeto colaborativo
 
-Ricardo
-Tiago
-Paulo
-José
-Ricardo2
+
 Diogo
 Paulo
 José
@@ -16,9 +13,9 @@ Ricardo
 Daniel
 Tiago
 Paulo
-Tomás
 Eduardo
+<<<<<<< HEAD
 José
-Paulo Coelho
-Paulo Bento
+=======
 José
+>>>>>>> ebb7301f43fd92c18e04aae30edf10ff258ae0c3
