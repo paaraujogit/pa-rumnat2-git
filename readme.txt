@@ -19,5 +19,8 @@ Paulo
 Tomás
 Eduardo
 Paulo Bento
+Mauricio
+Eduardo
 José
 Paulo Coelho
+Eduardo
