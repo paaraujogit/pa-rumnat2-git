@@ -1,32 +1,23 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Projeto colaborativo 
-=======
-=======
-
->>>>>>> 2e2b7a53805ad10ed89e5ec34643b17a10883c52
 Projeto colaborativo
 
-<<<<<<< HEAD
+Paulo
 Ricardo
 Tiago
-Paulo
-José
 Ricardo2
+<<<<<<< HEAD
 Thalita2
 
 =======
 
+=======
+>>>>>>> 1c41fd7bfe1b14c2fbe7203961c9eda73f83fcd5
 Diogo
-Paulo
-José
 Patrick Jose
-Paulo
-Paulo
 José
 Ricardo
 Daniel
 Tiago
+<<<<<<< HEAD
 Paulo
 <<<<<<< HEAD
 Thalita
@@ -34,6 +25,9 @@ Thalita
 =======
 =======
 >>>>>>> 0cfb073593385e57f187291cd3256aecd972e4b7
+=======
+Tomás
+>>>>>>> 1c41fd7bfe1b14c2fbe7203961c9eda73f83fcd5
 Eduardo
 S2 Thalita S2
 Paulo Bento
@@ -61,10 +55,12 @@ Paulo Coelho
 =======
 Mauricio
 Eduardo
-José
 Paulo Coelho
 Eduardo
+<<<<<<< HEAD
 José
 José
 Paulo Coelho
 >>>>>>> 0cfb073593385e57f187291cd3256aecd972e4b7
+=======
+>>>>>>> 1c41fd7bfe1b14c2fbe7203961c9eda73f83fcd5
