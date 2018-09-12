@@ -17,6 +17,6 @@ Eduardo
 Paulo Bento
 Paulo Coelho
 Tomás
-Mauricio2
+Mauricio
 Alexandre
 Eugénio
