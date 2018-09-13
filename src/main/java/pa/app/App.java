@@ -6,8 +6,8 @@ package pa.app;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public void execute( String mensagem )
     {
-        System.out.println( "Exercício GIT Maven Jenkins" );
+        System.out.println( mensagem );
     }
 }

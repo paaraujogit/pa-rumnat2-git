@@ -1,8 +1,6 @@
 package pa.app;
 
-import junit.framework.Test;
 import junit.framework.TestCase;
-import junit.framework.TestSuite;
 
 /**
  * Unit test for simple App.
@@ -10,29 +8,18 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
-    /**
-     * Create the test case
-     *
-     * @param testName name of the test case
-     */
+    private App app;
+    
     public AppTest( String testName )
     {
         super( testName );
+        this.app = new App();
     }
 
-    /**
-     * @return the suite of tests being tested
-     */
-    public static Test suite()
+    public void testExecute()
     {
-        return new TestSuite( AppTest.class );
-    }
-
-    /**
-     * Rigourous Test :-)
-     */
-    public void testApp()
-    {
-        assertTrue( true );
+    	this.app.execute( "####### Exercício GIT Maven Jenkins" );
+    	
+    	assertTrue(true);
     }
 }
