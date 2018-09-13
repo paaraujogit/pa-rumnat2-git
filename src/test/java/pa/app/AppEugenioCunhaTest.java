@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
  * @author  Paulo Araújo
  * @version 1.0
  */
-public class AppTest 
+public class AppEugenioCunhaTest 
 {
 	@BeforeEach 
 	public void init() {
@@ -21,7 +21,7 @@ public class AppTest
     @DisplayName("First Test - concat")
 	@Test
 	void testConcat() {
-		App ap = new App();
+		AppEugenioCunha ap = new AppEugenioCunha();
 		String res = ap.concat("Hello"," world!");
 		// Test concat example method
 		assertEquals("Hello world!", res);
