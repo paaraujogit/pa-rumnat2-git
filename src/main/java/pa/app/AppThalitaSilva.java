@@ -6,7 +6,7 @@ package pa.app;
  * @version 1.0
  *
  */
-public class App 
+public class AppThalitaSilva 
 {
     public static void main( String[] args )
     {
