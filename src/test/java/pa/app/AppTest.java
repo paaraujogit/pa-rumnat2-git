@@ -12,7 +12,7 @@ class AppTest {
 	@Test
 	void testExecute() 
 	{
-		this.app.execute("####### Exercício GIT Maven Jenkins");
+		this.app.execute("####### Exercício GIT Maven Jenkins Avançado");
 	}
 
 	@BeforeAll
