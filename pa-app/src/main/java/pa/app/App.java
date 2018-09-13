@@ -10,11 +10,11 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Maven JUnit 5 - Hello World!" );
+        System.out.println( "Projecto Gil - Módulo Git/Jenkins/Sonarcube" );
     }
 	
 	// String concatenation method example
 	String concat(String s1, String s2) {
-		return s1+s2;
+		return s1*s2;
 	}
 }
