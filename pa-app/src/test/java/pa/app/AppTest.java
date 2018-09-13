@@ -29,7 +29,7 @@ public class AppTest
 	
 	@DisplayName("Second Test - concat")
 	@Test
-	void testConcat() {
+	void testConcat2() {
 		App ap = new App();
 		String res = ap.concat("Hello"," world!");
 		// Test concat example method
@@ -38,7 +38,7 @@ public class AppTest
 	
 	@DisplayName("Third Test - concat")
 	@Test
-	void testConcat() {
+	void testConcat3() {
 		App ap = new App();
 		String res = ap.concat("Hello"," world!");
 		// Test concat example method
