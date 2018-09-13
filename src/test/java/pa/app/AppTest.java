@@ -1,25 +1,29 @@
 package pa.app;
 
-import junit.framework.TestCase;
+import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Unit test for simple App.
- */
-public class AppTest 
-    extends TestCase
-{
-    private App app;
-    
-    public AppTest( String testName )
-    {
-        super( testName );
-        this.app = new App();
-    }
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
-    public void testExecute()
-    {
-    	this.app.execute( "####### Exercício GIT Maven Jenkins" );
-    	
-    	assertTrue(true);
+class AppTest {
+	private App app;
+	
+	@Test
+	void testExecute() 
+	{
+		this.app.execute("####### Exercício GIT Maven Jenkins");
+	}
+
+	@BeforeAll
+    static void beforeAll() 
+	{
+        System.out.println("Before all test methods");
     }
+	
+	@BeforeEach
+	void beforeEach()
+	{
+		this.app = new App();
+	}	
 }
