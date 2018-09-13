@@ -15,6 +15,6 @@ public class App
 	
 	// String concatenation method example
 	String concat(String s1, String s2) {
-		return s1*s2;
+		return s1+s2;
 	}
 }
