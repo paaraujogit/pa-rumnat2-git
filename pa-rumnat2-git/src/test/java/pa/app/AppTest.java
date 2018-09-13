@@ -1,4 +1,4 @@
-package pa.pa_rumnat2_git;
+package pa.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
