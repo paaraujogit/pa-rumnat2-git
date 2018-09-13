@@ -33,7 +33,7 @@ public class AppTest
 		App ap = new App();
 		String res = ap.concat("Hello"," world!");
 		// Test concat example method
-		assertEquals("Hello world!2", res);
+		assertEquals("Hello world!", res);
 	}	
 	
 	@DisplayName("Third Test - concat")
@@ -42,6 +42,6 @@ public class AppTest
 		App ap = new App();
 		String res = ap.concat("Hello"," world!");
 		// Test concat example method
-		assertEquals("Hello world!3", res);
+		assertEquals("Hello world!", res);
 	}	
 }
