@@ -10,7 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Maven JUnit 5 - Hello World!" );
+        System.out.println( "Maven JUnit 5 - Hello World! -RJLC" );
     }
 	
 	// String concatenation method example
