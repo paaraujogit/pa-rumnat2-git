@@ -34,7 +34,7 @@ public class App
     	return truncar( valor1 / valor2, 2 );
     }
     
-    private static double truncar( final double valor, final int decimais )
+    public double truncar( final double valor, final int decimais )
 	{
 		final NumberFormat numberFormat = NumberFormat.getNumberInstance( Locale.US );
 		numberFormat.setGroupingUsed( false );
@@ -43,7 +43,7 @@ public class App
 		return truncar( valor, numberFormat , decimais );
 	}
 
-	private static double truncar( final double valor, final NumberFormat numberFormat, final int decimais )
+	private double truncar( final double valor, final NumberFormat numberFormat, final int decimais )
 	{
 		if ( !Double.isNaN( valor ) && !Double.isInfinite( valor ) )
 		{
