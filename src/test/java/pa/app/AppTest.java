@@ -64,7 +64,17 @@ class AppTest {
 		
 		assertEquals( 10.12, result );
 		
-		System.out.println( "####### Teste de subtração realizado com sucesso." ); 
+		System.out.println( "####### Teste de truncar realizado com sucesso." ); 
+	}
+	
+	@Test
+	void testTruncar2()
+	{
+		double result = this.app.truncar( 100000000010.123456, 2 );
+		
+		assertEquals( 100000000010.12, result );
+		
+		System.out.println( "####### Teste de truncar2 realizado com sucesso." ); 
 	}
 
 	@BeforeAll

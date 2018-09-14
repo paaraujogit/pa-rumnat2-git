@@ -45,22 +45,11 @@ public class App
 
 	private double truncar( final double valor, final NumberFormat numberFormat, final int decimais )
 	{
-		if ( !Double.isNaN( valor ) && !Double.isInfinite( valor ) )
-		{
-			final String valorReplace = numberFormat.format( valor ).replace( ".", ";" );
-			final String[] valorString = valorReplace.split( ";" );
+		final String valorReplace = numberFormat.format( valor ).replace( ".", ";" );
+		final String[] valorString = valorReplace.split( ";" );
 
-			if ( valorString.length == 2 )
-			{
-				valorString[1] = valorString[1].concat( "000000000000000" );
-			}
-			else
-			{
-				valorString[1] = "000000000000000";
-			}
+		valorString[1] = valorString[1].concat( "000000000000000" );
 
-			return Double.valueOf( valorString[0] + "." + valorString[1].substring( 0, decimais ) );
-		}
-		return valor;
+		return Double.valueOf( valorString[0] + "." + valorString[1].substring( 0, decimais ) );
 	}
 }
